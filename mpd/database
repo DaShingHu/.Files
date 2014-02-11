@@ -1,0 +1,426 @@
+info_begin
+format: 1
+mpd_version: 0.18.8
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+song_begin: 01 keep the faith -full chorus-.flac
+Time: 282
+Album: Innocent Bullet -Original Sound Track-
+Artist: Faylan
+Composer: Yatoki Tsukasa (Arte Refact)
+Date: 2013/08/23
+Disc: 1
+Genre: Game
+Title: keep the faith -full chorus-
+Track: 1
+mtime: 1390990525
+song_end
+song_begin: 02 school days.flac
+Time: 193
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 1
+Genre: Game
+Title: school days
+Track: 2
+mtime: 1390990527
+song_end
+song_begin: 03 quiet times.flac
+Time: 162
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 1
+Genre: Game
+Title: quiet times
+Track: 3
+mtime: 1390990528
+song_end
+song_begin: 04 border zone.flac
+Time: 199
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 1
+Genre: Game
+Title: border zone
+Track: 4
+mtime: 1390990529
+song_end
+song_begin: 05 The tactical girl is....flac
+Time: 182
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 1
+Genre: Game
+Title: The tactical girl is...
+Track: 5
+mtime: 1390990531
+song_end
+song_begin: 06 eccentric doll.flac
+Time: 220
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 1
+Genre: Game
+Title: eccentric doll
+Track: 6
+mtime: 1390990532
+song_end
+song_begin: 07 white wings.flac
+Time: 199
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 1
+Genre: Game
+Title: white wings
+Track: 7
+mtime: 1390990534
+song_end
+song_begin: 08 sorrow for.flac
+Time: 207
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 1
+Genre: Game
+Title: sorrow for
+Track: 8
+mtime: 1390990536
+song_end
+song_begin: 09 It's funny..flac
+Time: 188
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 1
+Genre: Game
+Title: It's funny.
+Track: 9
+mtime: 1390990537
+song_end
+song_begin: 10 bitter.flac
+Time: 208
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 1
+Genre: Game
+Title: bitter
+Track: 10
+mtime: 1390990539
+song_end
+song_begin: 11 peace of mind.flac
+Time: 181
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 1
+Genre: Game
+Title: peace of mind
+Track: 11
+mtime: 1390990539
+song_end
+song_begin: 12 only.flac
+Time: 216
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 1
+Genre: Game
+Title: only
+Track: 12
+mtime: 1390990541
+song_end
+song_begin: 13 interference.flac
+Time: 146
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 1
+Genre: Game
+Title: interference
+Track: 13
+mtime: 1390990542
+song_end
+song_begin: 14 having doubts.flac
+Time: 243
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 1
+Genre: Game
+Title: having doubts
+Track: 14
+mtime: 1390990545
+song_end
+song_begin: 15 lose.flac
+Time: 227
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 1
+Genre: Game
+Title: lose
+Track: 15
+mtime: 1390990547
+song_end
+song_begin: 01 Tamashii no reload -full chorus-.flac
+Time: 270
+Album: Innocent Bullet -Original Sound Track-
+Artist: Faylan
+Composer: Yatoki Tsukasa (Arte Refact)
+Date: 2013/08/23
+Disc: 2
+Genre: Game
+Title: Tamashii no reload -full chorus-
+Track: 1
+mtime: 1390990547
+song_end
+song_begin: 02 search & destroy.flac
+Time: 169
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 2
+Genre: Game
+Title: search & destroy
+Track: 2
+mtime: 1390990547
+song_end
+song_begin: 03 firing pin.flac
+Time: 194
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 2
+Genre: Game
+Title: firing pin
+Track: 3
+mtime: 1390990548
+song_end
+song_begin: 04 engage.flac
+Time: 162
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 2
+Genre: Game
+Title: engage
+Track: 4
+mtime: 1390990548
+song_end
+song_begin: 05 trigger.flac
+Time: 232
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 2
+Genre: Game
+Title: trigger
+Track: 5
+mtime: 1390990548
+song_end
+song_begin: 06 pride.flac
+Time: 204
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 2
+Genre: Game
+Title: pride
+Track: 6
+mtime: 1390990548
+song_end
+song_begin: 07 4th riot squad.flac
+Time: 175
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 2
+Genre: Game
+Title: 4th riot squad
+Track: 7
+mtime: 1390990548
+song_end
+song_begin: 08 understanding the pain.flac
+Time: 171
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 2
+Genre: Game
+Title: understanding the pain
+Track: 8
+mtime: 1390990548
+song_end
+song_begin: 09 a lay of hope.flac
+Time: 264
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 2
+Genre: Game
+Title: a lay of hope
+Track: 9
+mtime: 1390990549
+song_end
+song_begin: 10 a man.flac
+Time: 240
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 2
+Genre: Game
+Title: a man
+Track: 10
+mtime: 1390990549
+song_end
+song_begin: 11 It's Monday..flac
+Time: 196
+Album: Innocent Bullet -Original Sound Track-
+Artist: Arte Refact
+Composer: Arte Refact
+Date: 2013/08/23
+Disc: 2
+Genre: Game
+Title: It's Monday.
+Track: 11
+mtime: 1391227277
+song_end
+song_begin: 12 Our tomorrow -full chorus-.flac
+Time: 297
+Album: Innocent Bullet -Original Sound Track-
+Artist: Sakakibara Yui
+Composer: Yatoki Tsukasa (Arte Refact)
+Date: 2013/08/23
+Disc: 2
+Genre: Game
+Title: Our tomorrow -full chorus-
+Track: 12
+mtime: 1390990549
+song_end
+song_begin: 13 keep the faith -full chorus- (Instrumental).flac
+Time: 282
+Album: Innocent Bullet -Original Sound Track-
+Artist: Yatoki Tsukasa (Arte Refact)
+Composer: Yatoki Tsukasa (Arte Refact)
+Date: 2013/08/23
+Disc: 2
+Genre: Game
+Title: keep the faith -full chorus- (Instrumental)
+Track: 13
+mtime: 1390990549
+song_end
+song_begin: 14 Tamashii no reload -full chorus- (Instrumental).flac
+Time: 270
+Album: Innocent Bullet -Original Sound Track-
+Artist: Yatoki Tsukasa (Arte Refact)
+Composer: Yatoki Tsukasa (Arte Refact)
+Date: 2013/08/23
+Disc: 2
+Genre: Game
+Title: Tamashii no reload -full chorus- (Instrumental)
+Track: 14
+mtime: 1390990550
+song_end
+song_begin: 15 Our tomorrow -full chorus- (Instrumental).flac
+Time: 295
+Album: Innocent Bullet -Original Sound Track-
+Artist: Yatoki Tsukasa (Arte Refact)
+Composer: Yatoki Tsukasa (Arte Refact)
+Date: 2013/08/23
+Disc: 2
+Genre: Game
+Title: Our tomorrow -full chorus- (Instrumental)
+Track: 15
+mtime: 1390990551
+song_end
+song_begin: 01 REALISM.flac
+Time: 289
+Album: REALISM
+Artist: ELISA
+Composer: Mish-Mosh
+Date: 2013/10/23
+Genre: Anime
+Title: REALISM
+Track: 1
+mtime: 1382326006
+song_end
+song_begin: 02 Prana.flac
+Time: 271
+Album: REALISM
+Artist: ELISA
+Composer: Watanabe Shou
+Date: 2013/10/23
+Genre: Anime
+Title: Prana
+Track: 2
+mtime: 1382326007
+song_end
+song_begin: 03 Wherever.flac
+Time: 268
+Album: REALISM
+Artist: ELISA
+Composer: Komatsu Kiyohito
+Date: 2013/10/23
+Genre: Anime
+Title: Wherever
+Track: 3
+mtime: 1382326009
+song_end
+song_begin: 04 REALISM (Instrumental).flac
+Time: 287
+Album: REALISM
+Artist: Mish-Mosh
+Composer: Mish-Mosh
+Date: 2013/10/23
+Genre: Anime
+Title: REALISM (Instrumental)
+Track: 4
+mtime: 1382326009
+song_end

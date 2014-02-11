@@ -1,0 +1,16 @@
+Config { font = "xft:tewi:size=8"}
+, bgColor = "#FFBE97"
+, fgColor = "#68350F"
+, position = Static { xpos = 0, ypos = 0, width = 1600, height = 15}
+, lowerOnStart = False
+, commands =
+   [Run Network "wlan0" ["-L","0","-H","32","--normal","green","--high","red"] 10
+  , Run Cpu ["-L","3","-H","50","--normal","#b6a2de","--high","b6a2de"] 10
+  , Run Memory ["-t","Mem: <usedratio>%"] 10
+  , Run Com "uname" ["-s","-r"] "" 36000
+  , Run Date "[%_d %b %Y] %H:%M:%S" "date" 10]
+, sepChar = "%"
+, alignSep = "}{"
+, template = "}%cpu% | %memory% | %battery% |  {  <fc=#742700> %date%</fc> "
+ 
+}
