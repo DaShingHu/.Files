@@ -1,4 +1,4 @@
-Config { font = "xft:tewi:size=8"}
+Config { font = "xft:dejavu:size=8"}
 , bgColor = "#FFBE97"
 , fgColor = "#68350F"
 , position = Static { xpos = 0, ypos = 0, width = 1600, height = 15}
@@ -11,6 +11,6 @@ Config { font = "xft:tewi:size=8"}
   , Run Date "[%_d %b %Y] %H:%M:%S" "date" 10]
 , sepChar = "%"
 , alignSep = "}{"
-, template = "}%cpu% | %memory% | %battery% |  {  <fc=#742700> %date%</fc> "
+, template = "%playing% }%cpu% | %memory% |%battery2% { <fc=#742700> %date%</fc> "
  
 }

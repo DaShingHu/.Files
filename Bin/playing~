@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Playing: " $(ncmpcpp --now-playing | sed 's/\([()][0-9]:[0-9][0-9][()]\)//g')

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+##Requires acpi to work.
+
+acpi | sed s/remaining//g | sed s/"Battery 0: "//g | sed s/","//g

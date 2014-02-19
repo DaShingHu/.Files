@@ -1,0 +1,18 @@
+#!/bin/bash
+echo "Time?"
+
+read TIME
+
+#sleep $TIME\s
+
+for i in $(seq 1 $TIME); do
+    echo "$i s passed"
+    sleep 1s
+    
+done
+
+ncmpcpp pause
+
+sleep 1
+
+ncmpcpp play

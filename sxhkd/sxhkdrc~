@@ -11,7 +11,7 @@ alt + shift + apostrophe
 alt + y
 	bspc desktop -l next
 
-alt + x
+alt + ctrl +  x
 	bspc desktop -B
 
 alt + {o,u}
@@ -32,7 +32,7 @@ alt + {r,c}
 alt + m
 	bspc window -s biggest
 
-alt + {_,shift + }{h,t,n,s}
+alt + {_,shift + }{h,n,t,s}
 	bspc window -{f,s} {left,down,up,right}
 
 alt + {_,shift + }j
@@ -44,17 +44,15 @@ alt + shift +  {w,v}
 alt + bracket{left,right}
 	bspc desktop -f {prev,next}
 
-alt + ctrl + {h,t,n,s}
+alt + ctrl + {h,n,t,s}
 	bspc window -p {left,down,up,right}
 
 alt + ctrl + {_,shift + }space
 	bspc {window -p cancel,desktop -c}
 
-alt + shift + {h,t,n,s}
+alt + ctrl + shift + {h,n,t,s}
 	bspc window -e {left -10,down +10,up -10,right +10}
 
-alt + ctrl + shift + {h,t,n,s}
-	bspc window -e {right -10,up +10,down -10,left +10}
 
 alt + ctrl + {1-9}
 	bspc window -r 0.{1-9}
@@ -83,6 +81,17 @@ alt + Return
 
 alt + space
 	dmenu_run
+
+
+alt + shift +  period
+        ncmpcpp toggle
+
+alt + shift + comma
+       	ncmpcpp next
+
+alt + shift + apostrophe
+        ncmpcpp prev
+
 
 # make sxhkd reload its configuration files:
 alt + Escape

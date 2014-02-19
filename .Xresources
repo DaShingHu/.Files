@@ -1,0 +1,48 @@
+URxvt*background: #161616
+URxvt.cursorColor: #FDA53C
+
+!black
+*color0: #000000
+*color8: #696969
+!red
+*color1: #E84F4F
+*color9: #D23D3D
+!green
+*color2: #889931
+*color10: #A1BF66
+!yellow
+*color3: #CCBA4F
+*color11: #FFE863
+!blue
+*color4: #467480
+*color12: #8FCCAD
+!magenta
+*color5: #B33F6B
+*color13: #E66798
+!cyan
+*color6: #63858D
+*color14: #528D99
+!white
+*color7: #ABABAB
+*color15: #999999
+
+URxvt*borderColor:        #151515
+URxvt*colorBD:            #ffffff
+URxvt*cursorColor:        #ff8939
+URxvt*cursorColor2:       #151515
+
+URxvt.scrollBar: false
+
+URxvt.perl-ext-common: default,matcher
+URxvt.url-launcher: /usr/bin/firefox
+URxvt.matcher.button: 1
+URxvt.colorUL: #4682B4
+
+
+URxvt*font: xft:Tewi:size=8! URxvt*termName:                       string
+
+URxvt*.transparent: true
+URxvt*.shading:150
+
+dzen2.foreground: #22E11
+dzen2.background: black

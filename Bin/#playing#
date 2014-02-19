@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Playing: " $(ot "$(ncmpcpp --now-playing %f)")

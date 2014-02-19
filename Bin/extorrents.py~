@@ -1,0 +1,24 @@
+## Author: Dustin Hu
+##Date: 13-02-2014
+## To fetch Exhentai torrents easily
+
+#Input
+#http://exhentai.org/g/674034/0b89885c9f/ Exaple link
+
+
+strOriginalURL = raw_input("URL\n> ")
+
+print "Recieved"
+
+#Cuts off "http://exhentai.org/g/", leavig only the token and stuff
+
+strImportantPart = strOriginalURL[21:]
+#print strImportantPart
+
+a =  strImportantPart.split("/")
+
+#print a
+#print a[1]
+
+print "http://exhentai.org/gallerytorrents.php?gid="+ a[1]+ "&t="+ a[2]
+
